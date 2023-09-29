@@ -1,0 +1,8 @@
+.hero-image{
+    background: url('../src/assets/images/Group\ 34435.png') repeat;
+    background-size: contain;
+}
+
+.inter{
+    font-family: 'Inter', sans-serif;
+}
