@@ -20,7 +20,7 @@ function NavbarCo() {
             />
         </Navbar.Brand>
         <div className="flex md:order-2">
-            <Link to="/" className='text-base font-bold mt-2 me-4 md:mt-0 md:me-0 text-[#120B48]'>
+            <Link to="login" className='text-base font-bold mt-2 me-4 md:mt-0 md:me-0 text-[#120B48]'>
                 Get Strated
             </Link>
             <Navbar.Toggle />
