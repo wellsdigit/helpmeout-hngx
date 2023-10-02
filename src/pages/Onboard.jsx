@@ -1,7 +1,7 @@
 import React from 'react'
 import NavbarCo from '../Component/NavbarCo';
 import HeroComponent from '../Component/HeroComponent';
-import Features from '../Component/Features.Jsx';
+import Features from '../Component/Features';
 import HiWork from '../Component/HiWork';
 import Footer from '../Component/Footer';
 
